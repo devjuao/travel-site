@@ -17,3 +17,9 @@ Swiper.js — Carrosséis e slides dinâmicos
 📱 Design totalmente responsivo
 💬 Seção de depoimentos
 🎨 Interface moderna e intuitiva
+
+🔗 Link do Projeto: https://toptravelwebsite.netlify.app/
+
+👨‍💻 Autor
+
+João Helder
